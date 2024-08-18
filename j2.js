@@ -8,4 +8,11 @@ function asif(){
     
 }
 
+function ju(){
+
+   alert('IS your GF satisfied with your pe***?');
+}
+
+
+
 
