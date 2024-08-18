@@ -13,6 +13,19 @@ function ju(){
    alert('IS your GF satisfied with your pe***?');
 }
 
+var myp= document.querySelector("#p1");
+
+function bt1(){
+
+myp.innerHTML= " How big is your penis?";
+
+}
+
+function bt2(){
+
+   myp.innerHTML= "Can you give your GF to your soul mate ASIF Chandu? ";
+}
+
 
 
 
