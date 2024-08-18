@@ -25,6 +25,16 @@ function bt2(){
 
    myp.innerHTML= "Can you give your GF to your soul mate ASIF Chandu? ";
 }
+function show(){
+
+let lenju =document.querySelector("#len");
+lenju.src = "lenju.jpg";
+let ju= document.getElementById("l");
+ju.innerHTML="Here he is!"
+
+}
+
+
 
 
 
